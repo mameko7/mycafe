@@ -1,5 +1,8 @@
 h1 {
   font-size: 24px;
   padding-left: 16px;
-  border-left: 8px solid chocolate;
+  border-bottom: 10px solid rgba(172, 9, 109, 0.849);
+  border-right: 10px solid rgba(172, 9, 109, 0.849);
+  border-top: 10px solid rgba(172, 9, 109, 0.849);
+  border-left: 10px solid rgba(172, 9, 109, 0.849);
 }
